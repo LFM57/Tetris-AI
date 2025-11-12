@@ -1,0 +1,5 @@
+{
+  "name": "Tetris AI",
+  "description": "An interactive front-end project that simulates an AI playing Tetris automatically. The AI plays in an optimized and 'invincible' way, showcasing algorithmic intelligence.",
+  "requestFramePermissions": []
+}
